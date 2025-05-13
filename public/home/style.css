@@ -646,6 +646,8 @@ body {
     .hamburger {
         display: flex;
         z-index: 1001;
+        color: #99a9c2;
+        background-color: #99a9c2;
     }
     
     .nav-links {
@@ -654,7 +656,7 @@ body {
         right: -100%;
         width: 70%;
         height: 100vh;
-        background-color: white;
+        background-color: #0a0a0a;
         flex-direction: column;
         align-items: center;
         justify-content: center;
