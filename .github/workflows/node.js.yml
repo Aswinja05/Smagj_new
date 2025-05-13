@@ -28,5 +28,5 @@ jobs:
     - run: npm ci
     - run: |
         touch .env
-    -run: pm2 restart SmagjServer
+    - run: pm2 restart SmagjServer
     
